@@ -1,0 +1,19 @@
+p {
+  font-family: Lato;
+}
+
+button{
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  color: white;
+}
+
+.btn-log{
+  background-color: rgb(248, 70, 70);
+}
+
+.btn-reg{
+  background-color:rgb(15, 117, 235) ;
+}
